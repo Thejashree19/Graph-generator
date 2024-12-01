@@ -20,4 +20,4 @@ To run your Streamlit application, save your script as app.py and execute:
          streamlit run app.py
 
 Future Scope :
-Furthurly, tried on real time application based on OpenAI API key.
+Furthurly, working on real time application with OpenAI API key.
